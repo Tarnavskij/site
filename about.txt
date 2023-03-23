@@ -1,6 +1,0 @@
-This favicon was generated using the following font:
-
-- Font Title: Qwigley
-- Font Author: Copyright 2011 The Qwigley Project Authors (https://github.com/googlefonts/qwigley)
-- Font Source: http://fonts.gstatic.com/s/qwigley/v16/1cXzaU3UGJb5tGoCuVxsi1mBmcE.ttf
-- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
